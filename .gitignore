@@ -13,3 +13,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/StarterContent/Maps/Minimal_Default.umap
+Content/_GENERATED/**
